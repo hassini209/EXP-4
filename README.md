@@ -37,25 +37,29 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 34 PM" src="https://github.com/user-attachments/assets/a0ae9efe-b384-4a56-8b62-023250fe1f16" />
+<img width="1080" height="1414" alt="image" src="https://github.com/user-attachments/assets/62cabb23-f7c3-478c-b815-c12bb4f004d9" />
 
 Bridge rectifier with filter:
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 35 PM" src="https://github.com/user-attachments/assets/ae8cfb52-587a-40e8-9943-b1e85dc7da12" />
+<img width="946" height="1300" alt="image" src="https://github.com/user-attachments/assets/2f5a54b9-b9e3-417f-bce5-61b173ea3409" />
+
 
 TABULAR COLUMN
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 34 PM (1)" src="https://github.com/user-attachments/assets/2263a442-a343-4e68-802c-598f1c066ae9" />
+<img width="910" height="1598" alt="WhatsApp Image 2026-05-27 at 01 41 10" src="https://github.com/user-attachments/assets/c58ddff6-ac42-438f-9da3-bb25cb86add0" />
+
 
 Rectifier without filter
 TABULAR COLUMN
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 35 PM (1)" src="https://github.com/user-attachments/assets/ad75006d-41fa-41e6-a8d5-227ab8be4578" />
+<img width="901" height="1441" alt="WhatsApp Image 2026-05-27 at 01 41 32" src="https://github.com/user-attachments/assets/855fe178-592a-49e1-a894-47d3ac0e4dcb" />
+
 
 Rectifier with filter
 
 WAVEFORM:
+<img width="910" height="1598" alt="WhatsApp Image 2026-05-27 at 01 41 10" src="https://github.com/user-attachments/assets/b4f0967f-74c2-4cb3-a64d-297e5f7bab1e" />
+<img width="901" height="1441" alt="WhatsApp Image 2026-05-27 at 01 41 32" src="https://github.com/user-attachments/assets/9b9d314f-73b0-4957-a570-e3becbd8e41d" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 34 PM (2)" src="https://github.com/user-attachments/assets/9d5b3a5c-76d0-4ef1-a799-f773d824d644" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 39 35 PM (1)" src="https://github.com/user-attachments/assets/ab7c1606-9567-43d8-96f6-87544d7c4b78" />
+
 
 
 RESULT:
